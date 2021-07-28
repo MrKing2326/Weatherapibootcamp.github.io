@@ -4,4 +4,4 @@
 
 >> 7 Days Python and Cyber Security Bootcamp
    
-   Mentor : By HARSH AKSHIT
+   Mentor :  HARSH AKSHIT
